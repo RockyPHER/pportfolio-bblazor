@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/pportfolio-ultimate.props" />
+</Project>

@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "/home/davidsonjr/Documentos/Projects VSCODE/ultimate-learn/pportfolio-ultimate/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/home/davidsonjr/Documentos/Projects VSCODE/ultimate-learn/pportfolio-ultimate/obj/Debug/net8.0/compressed/zqkn7tp4ms.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/home/davidsonjr/Documentos/Projects VSCODE/ultimate-learn/pportfolio-ultimate/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/home/davidsonjr/Documentos/Projects VSCODE/ultimate-learn/pportfolio-ultimate/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/davidsonjr/Documentos/Projects VSCODE/ultimate-learn/pportfolio-ultimate/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/davidsonjr/Documentos/Projects VSCODE/ultimate-learn/pportfolio-ultimate/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/davidsonjr/Documentos/Projects VSCODE/ultimate-learn/pportfolio-ultimate/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/home/davidsonjr/Documentos/Projects VSCODE/ultimate-learn/pportfolio-ultimate/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/davidsonjr/Documentos/Projects VSCODE/ultimate-learn/pportfolio-ultimate/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.pportfolio-ultimate.props",
+      "PackagePath": "build\\pportfolio-ultimate.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.pportfolio-ultimate.props",
+      "PackagePath": "buildMultiTargeting\\pportfolio-ultimate.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.pportfolio-ultimate.props",
+      "PackagePath": "buildTransitive\\pportfolio-ultimate.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.pportfolio-ultimate.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
